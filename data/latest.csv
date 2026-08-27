@@ -1,0 +1,853 @@
+date,generated_at,window_hours,region,kind,service,service_slug,protocol,provider,provider_type,target,status
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Beeline,mobile,PornHub,warn
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Beeline,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Beeline,mobile,telegram_mtproto,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,MTS,mobile,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,MTS,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,MTS,mobile,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,MTS,mobile,telegram_org,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,MTS,mobile,telegram_mtproto,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,MTS,mobile,whatsapp_web,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Megafon,mobile,PornHub,warn
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Megafon,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Megafon,mobile,telegram_mtproto,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Ростелеком,wired,PornHub,warn
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Ростелеком,wired,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Ростелеком,wired,telegram_org,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Ростелеком,wired,telegram_mtproto,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,direct,direct,,,Ростелеком,wired,whatsapp_web,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,impVPN,impvpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Megafon,mobile,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Ростелеком,wired,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Banksy VPN,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Valutix Connect,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Grimbird VPN,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,One Bucks VPN,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Official VPN,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,eu,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Beeline,mobile,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Beeline,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Beeline,mobile,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Beeline,mobile,telegram_org,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Beeline,mobile,telegram_mtproto,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Beeline,mobile,whatsapp_web,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,MTS,mobile,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,MTS,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,MTS,mobile,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,MTS,mobile,telegram_org,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,MTS,mobile,telegram_mtproto,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,MTS,mobile,whatsapp_web,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Megafon,mobile,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Megafon,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Megafon,mobile,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Megafon,mobile,telegram_org,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Megafon,mobile,telegram_mtproto,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Megafon,mobile,whatsapp_web,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Сибирский Медведь,wired,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Сибирский Медведь,wired,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Сибирский Медведь,wired,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Сибирский Медведь,wired,telegram_org,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Сибирский Медведь,wired,telegram_mtproto,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,direct,direct,,,Сибирский Медведь,wired,whatsapp_web,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Durev VPN,durev-vpn,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,impVPN,impvpn,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Banksy VPN,,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Valutix Connect,,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Grimbird VPN,,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,One Bucks VPN,,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,LIBERTY VPN,liberty-vpn,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Official VPN,,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Horizon VPN,horizon-vpn,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Sirius VPN,sirius-vpn,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Magnum VPN,magnum-vpn,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Snowdn VPN,snowdn-vpn,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,telegram_org,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,whatsapp_web,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Сибирский Медведь,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Сибирский Медведь,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Сибирский Медведь,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Сибирский Медведь,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,sib,vpn,Paper VPN,paper-vpn,xray,Сибирский Медведь,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Beeline,mobile,telegram_mtproto,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,MTS,mobile,telegram_mtproto,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Megafon,mobile,telegram_mtproto,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Ростелеком,wired,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Ростелеком,wired,instagram_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Ростелеком,wired,youtube_home,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Ростелеком,wired,telegram_org,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Ростелеком,wired,telegram_mtproto,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,direct,direct,,,Ростелеком,wired,whatsapp_web,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Durev VPN,durev-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,impVPN,impvpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Ростелеком,wired,PornHub,fail
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Banksy VPN,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Valutix Connect,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Grimbird VPN,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,One Bucks VPN,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,LIBERTY VPN,liberty-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Official VPN,,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Snowdn VPN,snowdn-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,PornHub,warn
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,instagram_home,warn
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,youtube_home,warn
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,telegram_org,warn
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Horizon VPN,horizon-vpn,xray,Ростелеком,wired,whatsapp_web,warn
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Sirius VPN,sirius-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Magnum VPN,magnum-vpn,xray,Ростелеком,wired,whatsapp_web,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Beeline,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,MTS,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,PornHub,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,instagram_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,youtube_home,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,telegram_org,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Megafon,mobile,whatsapp_web,error
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,PornHub,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,instagram_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,youtube_home,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,telegram_org,ok
+2026-08-27,2026-08-27T11:56:06.998972+00:00,24,ea,vpn,Paper VPN,paper-vpn,xray,Ростелеком,wired,whatsapp_web,ok
