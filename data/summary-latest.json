@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-27T11:56:06.998972+00:00",
+ "generated_at": "2026-08-28T09:12:53.914308+00:00",
  "window_hours": 24,
- "measurements": 852,
+ "measurements": 568,
  "by_region_provider": [
   {
    "region": "ea",
@@ -27,62 +27,34 @@
   {
    "region": "ea",
    "provider": "Ростелеком",
-   "ok": 59,
+   "ok": 60,
    "total": 65,
-   "ok_share": 0.9077
+   "ok_share": 0.9231
   },
   {
    "region": "eu",
    "provider": "Beeline",
-   "ok": 65,
+   "ok": 60,
    "total": 65,
-   "ok_share": 1.0
+   "ok_share": 0.9231
   },
   {
    "region": "eu",
    "provider": "MTS",
-   "ok": 62,
+   "ok": 50,
    "total": 65,
-   "ok_share": 0.9538
+   "ok_share": 0.7692
   },
   {
    "region": "eu",
    "provider": "Megafon",
-   "ok": 63,
+   "ok": 30,
    "total": 65,
-   "ok_share": 0.9692
+   "ok_share": 0.4615
   },
   {
    "region": "eu",
    "provider": "Ростелеком",
-   "ok": 64,
-   "total": 65,
-   "ok_share": 0.9846
-  },
-  {
-   "region": "sib",
-   "provider": "Beeline",
-   "ok": 57,
-   "total": 65,
-   "ok_share": 0.8769
-  },
-  {
-   "region": "sib",
-   "provider": "MTS",
-   "ok": 64,
-   "total": 65,
-   "ok_share": 0.9846
-  },
-  {
-   "region": "sib",
-   "provider": "Megafon",
-   "ok": 65,
-   "total": 65,
-   "ok_share": 1.0
-  },
-  {
-   "region": "sib",
-   "provider": "Сибирский Медведь",
    "ok": 65,
    "total": 65,
    "ok_share": 1.0
