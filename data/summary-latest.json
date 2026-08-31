@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T09:42:04.787504+00:00",
+ "generated_at": "2026-08-31T08:55:03.287524+00:00",
  "window_hours": 24,
  "measurements": 568,
  "by_region_provider": [
@@ -41,16 +41,16 @@
   {
    "region": "eu",
    "provider": "MTS",
-   "ok": 62,
+   "ok": 45,
    "total": 65,
-   "ok_share": 0.9538
+   "ok_share": 0.6923
   },
   {
    "region": "eu",
    "provider": "Megafon",
-   "ok": 35,
+   "ok": 65,
    "total": 65,
-   "ok_share": 0.5385
+   "ok_share": 1.0
   },
   {
    "region": "eu",
