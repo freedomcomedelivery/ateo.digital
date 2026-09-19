@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T07:33:46.505539+00:00",
+ "generated_at": "2026-09-19T07:41:53.970172+00:00",
  "window_hours": 24,
  "measurements": 639,
  "by_region_provider": [
@@ -20,9 +20,9 @@
   {
    "region": "ea",
    "provider": "Megafon",
-   "ok": 65,
+   "ok": 60,
    "total": 65,
-   "ok_share": 1.0
+   "ok_share": 0.9231
   },
   {
    "region": "ea",
@@ -34,9 +34,9 @@
   {
    "region": "eu",
    "provider": "Beeline",
-   "ok": 64,
+   "ok": 65,
    "total": 65,
-   "ok_share": 0.9846
+   "ok_share": 1.0
   },
   {
    "region": "eu",
@@ -48,9 +48,9 @@
   {
    "region": "eu",
    "provider": "Megafon",
-   "ok": 35,
+   "ok": 45,
    "total": 65,
-   "ok_share": 0.5385
+   "ok_share": 0.6923
   },
   {
    "region": "eu",
@@ -62,9 +62,9 @@
   {
    "region": "sib",
    "provider": "Ростелеком",
-   "ok": 64,
+   "ok": 65,
    "total": 65,
-   "ok_share": 0.9846
+   "ok_share": 1.0
   }
  ]
 }
