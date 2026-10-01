@@ -68,6 +68,14 @@
 Берите, стройте поверх, указывайте источник. Живой снапшот всегда доступен
 по адресу [freedomchecker.ateo.digital/api/snapshot.json](https://freedomchecker.ateo.digital/api/snapshot.json).
 
+## Как устроены узлы Freedom Checker
+
+- **[dell-dw5821e-dw5829e-esim-linux](https://github.com/freedomcomedelivery/dell-dw5821e-dw5829e-esim-linux)**
+  — модемы Dell DW5821e-eSIM и DW5829e-eSIM на Linux: eSIM-профили через lpac,
+  сессии данных по QMI и PPP, udev, отдельный network namespace на каждый
+  мобильный аплинк и восстановление после реальных отказов
+  ([страница проекта](https://freedomcomedelivery.github.io/dell-dw5821e-dw5829e-esim-linux/)).
+
 ## Международные измерительные проекты (для контекста)
 
 - **[OONI](https://ooni.org/)** — Open Observatory of Network Interference:
