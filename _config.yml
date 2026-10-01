@@ -1,0 +1,5 @@
+title: "ateo.digital — мониторинг доступности и цензуры Рунета"
+description: "Freedom Checker, Wanted Radar и открытый датасет доступности VPN по операторам РФ"
+lang: ru
+plugins:
+  - jekyll-sitemap
