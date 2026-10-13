@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T07:45:33.608989+00:00",
+ "generated_at": "2026-10-13T07:50:48.035358+00:00",
  "window_hours": 24,
  "measurements": 431,
  "by_region_provider": [
@@ -13,23 +13,23 @@
   {
    "region": "eu",
    "provider": "Beeline",
+   "ok": 0,
+   "total": 65,
+   "ok_share": 0.0
+  },
+  {
+   "region": "eu",
+   "provider": "MTS",
    "ok": 3,
    "total": 65,
    "ok_share": 0.0462
   },
   {
    "region": "eu",
-   "provider": "MTS",
-   "ok": 15,
-   "total": 65,
-   "ok_share": 0.2308
-  },
-  {
-   "region": "eu",
    "provider": "Megafon",
-   "ok": 17,
+   "ok": 19,
    "total": 65,
-   "ok_share": 0.2615
+   "ok_share": 0.2923
   },
   {
    "region": "eu",
