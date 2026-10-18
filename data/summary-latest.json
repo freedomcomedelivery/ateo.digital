@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T07:11:09.673195+00:00",
+ "generated_at": "2026-10-18T07:17:33.655713+00:00",
  "window_hours": 24,
  "measurements": 456,
  "by_region_provider": [
@@ -13,9 +13,9 @@
   {
    "region": "eu",
    "provider": "Beeline",
-   "ok": 0,
+   "ok": 8,
    "total": 70,
-   "ok_share": 0.0
+   "ok_share": 0.1143
   },
   {
    "region": "eu",
