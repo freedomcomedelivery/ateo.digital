@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-16T08:46:59.778898+00:00",
+ "generated_at": "2026-11-17T07:54:10.082425+00:00",
  "window_hours": 24,
  "measurements": 486,
  "by_region_provider": [
   {
    "region": "ea",
    "provider": "Ростелеком",
-   "ok": 55,
+   "ok": 54,
    "total": 75,
-   "ok_share": 0.7333
+   "ok_share": 0.72
   },
   {
    "region": "eu",
