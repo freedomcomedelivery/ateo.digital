@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-17T07:54:10.082425+00:00",
+ "generated_at": "2026-11-18T08:00:24.153834+00:00",
  "window_hours": 24,
  "measurements": 486,
  "by_region_provider": [
   {
    "region": "ea",
    "provider": "Ростелеком",
-   "ok": 54,
+   "ok": 52,
    "total": 75,
-   "ok_share": 0.72
+   "ok_share": 0.6933
   },
   {
    "region": "eu",
@@ -27,9 +27,9 @@
   {
    "region": "eu",
    "provider": "Megafon",
-   "ok": 5,
+   "ok": 0,
    "total": 75,
-   "ok_share": 0.0667
+   "ok_share": 0.0
   },
   {
    "region": "eu",
