@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T08:30:57.921899+00:00",
+ "generated_at": "2026-11-23T08:32:19.871171+00:00",
  "window_hours": 24,
  "measurements": 486,
  "by_region_provider": [
@@ -34,16 +34,16 @@
   {
    "region": "eu",
    "provider": "Ростелеком",
-   "ok": 60,
+   "ok": 59,
    "total": 75,
-   "ok_share": 0.8
+   "ok_share": 0.7867
   },
   {
    "region": "sib",
    "provider": "Ростелеком",
-   "ok": 35,
+   "ok": 36,
    "total": 75,
-   "ok_share": 0.4667
+   "ok_share": 0.48
   }
  ]
 }
