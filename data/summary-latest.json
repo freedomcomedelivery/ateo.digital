@@ -1,15 +1,8 @@
 {
- "generated_at": "2026-11-25T08:43:40.709207+00:00",
+ "generated_at": "2026-11-26T08:48:37.324911+00:00",
  "window_hours": 24,
- "measurements": 486,
+ "measurements": 324,
  "by_region_provider": [
-  {
-   "region": "ea",
-   "provider": "Ростелеком",
-   "ok": 50,
-   "total": 75,
-   "ok_share": 0.6667
-  },
   {
    "region": "eu",
    "provider": "Beeline",
@@ -20,9 +13,9 @@
   {
    "region": "eu",
    "provider": "MTS",
-   "ok": 0,
+   "ok": 4,
    "total": 75,
-   "ok_share": 0.0
+   "ok_share": 0.0533
   },
   {
    "region": "eu",
@@ -34,16 +27,9 @@
   {
    "region": "eu",
    "provider": "Ростелеком",
-   "ok": 49,
+   "ok": 48,
    "total": 75,
-   "ok_share": 0.6533
-  },
-  {
-   "region": "sib",
-   "provider": "Ростелеком",
-   "ok": 50,
-   "total": 75,
-   "ok_share": 0.6667
+   "ok_share": 0.64
   }
  ]
 }
