@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:52:50.875731+00:00",
+ "generated_at": "2026-11-28T07:56:59.106408+00:00",
  "window_hours": 24,
  "measurements": 324,
  "by_region_provider": [
@@ -13,23 +13,23 @@
   {
    "region": "eu",
    "provider": "MTS",
-   "ok": 43,
+   "ok": 40,
    "total": 75,
-   "ok_share": 0.5733
+   "ok_share": 0.5333
   },
   {
    "region": "eu",
    "provider": "Megafon",
-   "ok": 5,
+   "ok": 38,
    "total": 75,
-   "ok_share": 0.0667
+   "ok_share": 0.5067
   },
   {
    "region": "eu",
    "provider": "Ростелеком",
-   "ok": 50,
+   "ok": 49,
    "total": 75,
-   "ok_share": 0.6667
+   "ok_share": 0.6533
   }
  ]
 }
